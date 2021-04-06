@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 //Chamando o namespace std aqui exime de refazer estas chamadas nos demais arquivos?
+//SIM
 
 class Aluno{
 private :
